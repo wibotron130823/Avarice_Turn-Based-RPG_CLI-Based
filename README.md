@@ -1,5 +1,5 @@
 # GAME DESCRIPTION
-War Of Greed is a strategical turn based game which is designed in text based format and playable on your terminal. Although it's still terminal based, i've provided some great features you can enjoy such as :
+Avarice is a strategical turn based game which is designed in text based format and playable on your terminal. Although it's still terminal based, i've provided some great features you can enjoy such as :
 vs Player mode, vs COM mode, fair turn, great type of heroes, and unique battle spells. For the further information run the game, and go to "Game Guide" menu. Enjoy the game!
 
 ## REQUIREMENTS
